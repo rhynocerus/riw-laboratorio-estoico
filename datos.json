@@ -1,0 +1,182 @@
+[
+  [
+    "La crítica pública",
+    "Has mostrado una obra en la que llevas meses trabajando. Alguien la desacredita delante de otras personas.",
+    "¿Qué parte de lo ocurrido conoces y qué parte estás suponiendo?",
+    [
+      "Responder para defender mi trabajo",
+      "Preguntar qué aspectos concretos cuestiona",
+      "Retirarme y volver a hablar más tarde"
+    ],
+    [
+      "Defenderse puede aclarar límites, pero el tono podría desplazar la conversación.",
+      "Pedir concreción abre la posibilidad de aprender, aunque la crítica puede seguir siendo injusta.",
+      "Tomar distancia ayuda a regular la respuesta, aunque posponer no siempre resuelve el conflicto."
+    ]
+  ],
+  [
+    "El tren que no llega",
+    "Una avería retrasa tu viaje. Una reunión importante comenzará sin ti.",
+    "¿Qué puedes influir ahora y qué no?",
+    [
+      "Protestar ante el personal",
+      "Avisar y proponer una alternativa",
+      "Esperar sin comunicar nada"
+    ],
+    [
+      "La protesta puede señalar un problema real, pero no garantiza resolverlo a tiempo.",
+      "Comunicar el retraso y ofrecer opciones convierte parte de la incertidumbre en acción.",
+      "Esperar evita una reacción precipitada, aunque otros siguen sin información."
+    ]
+  ],
+  [
+    "La silla vacía",
+    "Alguien a quien aprecias no acude a una celebración. No ha dado explicaciones.",
+    "¿Qué sabes realmente de su ausencia?",
+    [
+      "Interpretarlo como desinterés",
+      "Preguntar con apertura qué ocurrió",
+      "No darle importancia y no mencionarlo"
+    ],
+    [
+      "Puede protegerte de una decepción, pero convierte una conjetura en juicio.",
+      "Preguntar permite conocer contexto sin exigir una respuesta determinada.",
+      "Dejarlo pasar puede ser generoso o esconder una necesidad de diálogo."
+    ]
+  ],
+  [
+    "La reunión difícil",
+    "Tu equipo adopta una decisión que consideras equivocada. Nadie parece escuchar tus objeciones.",
+    "¿Defender una idea exige controlar el resultado?",
+    [
+      "Insistir hasta convencerlos",
+      "Exponer razones y aceptar la decisión",
+      "Desentenderme del proyecto"
+    ],
+    [
+      "Persistir puede revelar riesgos ignorados, pero también bloquear la colaboración.",
+      "Argumentar con claridad respeta tu criterio y reconoce los límites de tu influencia.",
+      "Alejarte puede proteger tus límites, pero también reducir tu capacidad de aportar."
+    ]
+  ],
+  [
+    "Dos caminos",
+    "Recibes una oportunidad atractiva que implica renunciar a una rutina que valoras.",
+    "¿Qué criterio merece más peso para ti?",
+    [
+      "Elegir la seguridad conocida",
+      "Aceptar la oportunidad",
+      "Pedir tiempo y definir prioridades"
+    ],
+    [
+      "La estabilidad tiene valor, aunque no elimina el coste de las posibilidades perdidas.",
+      "El cambio puede abrir horizontes, pero no garantiza satisfacción.",
+      "Aclarar valores mejora la deliberación, aunque no hace desaparecer la incertidumbre."
+    ]
+  ],
+  [
+    "La pieza rota",
+    "Rompes accidentalmente un objeto con valor sentimental. No puede volver a ser exactamente igual.",
+    "¿Qué significa reparar cuando no es posible deshacer?",
+    [
+      "Ocultar lo sucedido",
+      "Reconocerlo y buscar cómo repararlo",
+      "Sustituirlo sin consultar"
+    ],
+    [
+      "Evitas un conflicto inmediato, pero comprometes la confianza.",
+      "Asumir la responsabilidad no restaura el pasado, aunque abre un camino honesto.",
+      "La sustitución puede ser útil, pero el valor sentimental no siempre es intercambiable."
+    ]
+  ],
+  [
+    "El ruido del mundo",
+    "Una multitud de opiniones contradice lo que has estudiado. Empiezas a dudar de tu criterio.",
+    "¿La cantidad de voces equivale a evidencia?",
+    [
+      "Seguir la opinión mayoritaria",
+      "Revisar fuentes y argumentos",
+      "Ignorar todas las opiniones"
+    ],
+    [
+      "El consenso puede contener información, pero no sustituye la evaluación crítica.",
+      "Contrastar permite revisar creencias sin depender solo de la presión social.",
+      "Filtrar el ruido ayuda, aunque cerrarse impide encontrar correcciones valiosas."
+    ]
+  ],
+  [
+    "La carta pendiente",
+    "Llevas semanas evitando una conversación difícil con alguien importante para ti.",
+    "¿Qué coste tiene aplazar y qué coste tiene hablar?",
+    [
+      "Escribir un mensaje impulsivo",
+      "Preparar una conversación respetuosa",
+      "Seguir esperando a que pase"
+    ],
+    [
+      "La inmediatez alivia tensión, pero puede generar malentendidos.",
+      "Preparar lo que necesitas decir mejora la claridad sin controlar la reacción ajena.",
+      "Esperar puede ser prudente, aunque la evitación prolonga lo irresuelto."
+    ]
+  ],
+  [
+    "La noticia nocturna",
+    "Recibes un mensaje alarmante y ambiguo justo antes de dormir.",
+    "¿Qué parte del miedo proviene de hechos confirmados?",
+    [
+      "Responder suponiendo lo peor",
+      "Pedir detalles y comprobar la información",
+      "Apagar el teléfono sin más"
+    ],
+    [
+      "La urgencia puede parecer protectora, pero amplifica una interpretación no comprobada.",
+      "Verificar reduce incertidumbre y permite responder de manera proporcionada.",
+      "Desconectar protege el descanso, pero puede ser inadecuado si existe una urgencia real."
+    ]
+  ],
+  [
+    "El camino bloqueado",
+    "Una tormenta derriba un árbol sobre el sendero que pensabas recorrer.",
+    "¿Adaptarse significa rendirse?",
+    [
+      "Intentar pasar a toda costa",
+      "Buscar un recorrido seguro",
+      "Cancelar toda la excursión"
+    ],
+    [
+      "Persistir muestra determinación, pero ignorar el riesgo no es valentía.",
+      "Cambiar de ruta conserva el propósito sin aferrarse al plan inicial.",
+      "Cancelar puede ser una decisión sensata según las condiciones reales."
+    ]
+  ],
+  [
+    "El espejo imperfecto",
+    "Cometes un error frente a personas cuya opinión valoras. No consigues dejar de recordarlo.",
+    "¿Eres tu error o alguien capaz de aprender de él?",
+    [
+      "Justificarme sin escuchar",
+      "Reconocerlo y extraer una lección",
+      "Castigarme mentalmente"
+    ],
+    [
+      "Defender tu imagen puede impedir comprender el impacto.",
+      "Reconocer el error facilita reparación y aprendizaje, sin garantizar perdón.",
+      "La autocrítica puede señalar valores, pero el castigo repetitivo no equivale a mejorar."
+    ]
+  ],
+  [
+    "La puerta abierta",
+    "Termina una etapa de tu vida. No sabes qué vendrá después.",
+    "¿Qué puedes decidir sin conocer el futuro?",
+    [
+      "Esperar una certeza absoluta",
+      "Dar un primer paso reversible",
+      "Dejar que otros decidan por mí"
+    ],
+    [
+      "La certeza total rara vez llega y la espera también tiene consecuencias.",
+      "Un paso pequeño permite aprender sin convertir la decisión en destino irrevocable.",
+      "Delegar puede aliviar la carga, pero también alejarte de tus propios valores."
+    ]
+  ]
+]
